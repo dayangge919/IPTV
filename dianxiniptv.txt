@@ -204,7 +204,7 @@ CCTV4K,http://123.160.108.15:6610/PLTV1/190059/1.m3u8?
 测试频道,http://222.85.69.6/PLTV/88888888/224/3221227191/index.m3u8?icpid=88888888&servicetype=1
 测试频道,http://222.85.69.6/PLTV/88888888/224/3221227221/index.m3u8?icpid=88888888&servicetype=1
 测试频道,http://222.85.69.6/PLTV/88888888/224/3221227336/index.m3u8?icpid=88888888&servicetype=1
-收费-河南电信,#genre#
+数字-河南电信,#genre#
 卡酷少儿,http://219.150.217.47:6610/PLTV1/1580/index.m3u8?icpid=dxrm1
 国学频道,http://219.150.217.47:6610/PLTV2/3720/index.m3u8?icpid=dxrm1
 优漫卡通,http://219.150.217.47:6610/PLTV1/1660/index.m3u8?icpid=dxrm1
