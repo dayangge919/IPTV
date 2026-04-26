@@ -1,6 +1,5 @@
-中央-河南移动,#genre#
+央视频道,#genre#
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227163/index.m3u8
-CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227225/index.m3u8
 CCTV2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227165/index.m3u8
 CCTV2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226306/index.m3u8
 CCTV3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226308/index.m3u8
@@ -49,7 +48,7 @@ CGTN法语,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227365/index
 CGTN西班牙语,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227390/index.m3u8
 CGTN阿拉伯语,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227392/index.m3u8
 CGTN俄语,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227394/index.m3u8
-卫视-河南移动,#genre#
+卫视频道,#genre#
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/index.m3u8
 东方卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -131,7 +130,7 @@ CGTN俄语,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227394/index
 山东卫视4K-50-HLG,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227442/index.m3u8
 湖南卫视4K-50-HLG,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227425/index.m3u8
 东方卫视4K-50-HLG,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227427/index.m3u8
-省级-河南移动,#genre#
+省台频道,#genre#
 河南4K试验,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 河南4K试验,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 河南都市频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
@@ -168,7 +167,7 @@ CGTN俄语,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227394/index
 武术频道,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=dfcdc24ac8a49ebd886337dc5cdc1568&wsTime=1770400669
 河南曲艺,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=3f9e1d6e5c78cea99a876ce40f13202b&wsTime=1770400669
 移动戏曲,https://dxtx.hntv.tv/live/ydxq.m3u8?txSecret=caad41b421fdab7fa0dfbaf96f59f9f0&txTime=7B2E515F&wsSecret=b2484c40280981b4050b148e22943b0e&wsTime=1770400669
-地方-河南移动,#genre#
+地方频道,#genre#
 郑州新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226404/index.m3u8
 郑州商都频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226402/index.m3u8
 郑州商都频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226650/index.m3u8
@@ -232,6 +231,7 @@ CGTN俄语,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227394/index
 汤阴,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227372/index.m3u8
 内黄,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226356/index.m3u8
 内黄,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
+滑县,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227225/index.m3u8
 鹤壁新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226384/index.m3u8
 鹤壁新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226563/index.m3u8
 浚县,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227344/index.m3u8
@@ -342,7 +342,7 @@ CGTN俄语,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227394/index
 新蔡,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226691/index.m3u8
 济源,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
 济源,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226693/index.m3u8
-数字-河南移动,#genre#
+数字频道,#genre#
 求索记录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 求索记录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 求索记录4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227381/index.m3u8
