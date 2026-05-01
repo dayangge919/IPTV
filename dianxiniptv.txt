@@ -1,4 +1,4 @@
-中央-河南电信,#genre#
+央视频道,#genre#
 CCTV1,http://219.150.217.47:6610/PLTV1/40/index.m3u8?icpid=dxrm1
 CCTV1,http://219.150.217.47:6610/PLTV1/940/index.m3u8?icpid=dxrm1
 CCTV2,http://219.150.217.47:6610/PLTV1/60/index.m3u8?icpid=dxrm1
@@ -24,7 +24,7 @@ CCTV4K,http://123.160.108.7:6610/PLTV1/190059/1.m3u8?
 CCTV4K,http://123.160.108.15:6610/PLTV1/190059/1.m3u8?
 CETV1,http://219.150.217.47:6610/PLTV1/400/index.m3u8?icpid=dxrm1
 CGTN,http://219.150.217.47:6610/PLTV1/340/index.m3u8?icpid=dxrm1
-卫视-河南电信,#genre#
+卫视频道,#genre#
 河南卫视,http://219.150.217.47:6610/PLTV1/580/index.m3u8?icpid=dxrm1
 河南卫视,http://222.85.25.226/PLTV/88888888/224/3221226984/1.m3u8
 东方卫视,http://219.150.217.47:6610/PLTV1/980/index.m3u8?icpid=dxrm1
@@ -65,7 +65,7 @@ CGTN,http://219.150.217.47:6610/PLTV1/340/index.m3u8?icpid=dxrm1
 新疆卫视,http://219.150.217.47:6610/PLTV1/1620/index.m3u8?icpid=dxrm1
 云南卫视,http://219.150.217.47:6610/PLTV1/1320/index.m3u8?icpid=dxrm1
 重庆卫视,http://219.150.217.47:6610/PLTV1/1340/index.m3u8?icpid=dxrm1
-省内-河南电信,#genre#
+省台频道,#genre#
 河南4K试验,http://219.150.217.47:6610/PLTV2/2780/index.m3u8?icpid=dxrm1
 河南都市频道,http://219.150.217.47:6610/PLTV1/600/index.m3u8?icpid=dxrm1
 河南民生频道,http://219.150.217.47:6610/PLTV1/620/index.m3u8?icpid=dxrm1
@@ -95,7 +95,7 @@ CGTN,http://219.150.217.47:6610/PLTV1/340/index.m3u8?icpid=dxrm1
 武术频道,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=dfcdc24ac8a49ebd886337dc5cdc1568&wsTime=1770400669
 河南曲艺,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=3f9e1d6e5c78cea99a876ce40f13202b&wsTime=1770400669
 移动戏曲,https://dxtx.hntv.tv/live/ydxq.m3u8?txSecret=caad41b421fdab7fa0dfbaf96f59f9f0&txTime=7B2E515F&wsSecret=b2484c40280981b4050b148e22943b0e&wsTime=1770400669
-地方-河南电信,#genre#
+地方频道,#genre#
 郑州新闻综合,http://219.150.217.47:6610/PLTV1/1680/index.m3u8?icpid=dxrm1
 郑州商都频道,http://219.150.217.47:6610/PLTV1/1700/index.m3u8?icpid=dxrm1
 郑州文体旅游,http://219.150.217.47:6610/PLTV1/1720/index.m3u8?icpid=dxrm1
