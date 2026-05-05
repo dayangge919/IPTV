@@ -396,3 +396,15 @@ CGTN俄语,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227394/index
 优优宝贝,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 四海钓鱼,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226718/index.m3u8
 四海钓鱼,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226333/index.m3u8
+河南广播,#genre#
+FM95.5 新闻广播,https://stream.hndt.com/live/xinwen/playlist.m3u8
+FM103.2 经济广播,https://stream.hndt.com/live/jingji/playlist.m3u8
+FM104.1 交通广播,https://stream.hndt.com/live/jiaotong/playlist.m3u8
+FM97.6 戏曲广播,https://stream.hndt.com/live/yule/playlist.m3u8
+FM90.0 My Radio,https://stream.hndt.com/live/yingshi/playlist.m3u8
+FM99.9 旅游广播,https://stream.hndt.com/live/sijiache/playlist.m3u8
+教育广播,https://stream.hndt.com/live/jiaoyu/playlist.m3u8
+信息广播,https://stream.hndt.com/live/leling/playlist.m3u8
+FM.93.6 天籁之音,http://stream.hndt.com/live/gudian/playlist.m3u8
+魅力881 音乐广播,http://stream.hndt.com/live/yinyue/playlist.m3u8
+FM107.4 农村广播,http://stream.hndt.com/live/nongcun/playlist.m3u8
