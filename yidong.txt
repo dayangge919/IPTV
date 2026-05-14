@@ -34,6 +34,9 @@ CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8
+CHC影迷电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227522/index.m3u8
+CHC动作电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227479/index.m3u8
+CHC家庭影院,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227477/index.m3u8
 CETV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 CETV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226592/index.m3u8
 CETV2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227329/index.m3u8
